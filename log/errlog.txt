@@ -1,0 +1,8 @@
+
+[2011-11-16, 18:30:07] /www/stockbd/prv/mstgrabber.php:Date mismatch in MST file. Guess the link changed.
+[2011-11-17, 10:38:22] /www/stockbd/prv/mstgrabber.php:Date mismatch in MST file. Guess the link changed.
+[2011-11-17, 10:48:05] /www/stockbd/prv/mstgrabber.php:Date mismatch in MST file. Guess the link changed.
+[2011-11-17, 10:54:15] /www/stockbd/prv/mstgrabber.php:Date mismatch in MST file. Guess the link changed.
+[2011-11-17, 10:55:56] /www/stockbd/prv/mstgrabber.php:Date mismatch in MST file. Guess the link changed.
+[2011-11-17, 10:59:09] /www/stockbd/prv/mstgrabber.php:Date mismatch in MST file. Guess the link changed.
+[2011-12-16, 11:01:23] E:\UniServer\www\stockbd\prv\mstgrabber.php:Date mismatch in MST file. Guess the link changed.
